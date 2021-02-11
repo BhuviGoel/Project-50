@@ -1,0 +1,37 @@
+.header{
+    color:rgb(255, 255, 255);  
+    /* vertical-align: middle; */
+  }
+.item{
+    border: 2px solid rgb(27, 27, 155);
+    background-color: rgb(250, 239, 195);
+}
+
+  .grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  h1{
+    text-align: center;
+    background-image: url(https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/file-origami-1594016079.jpg)
+    
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+body{
+    font-size: 14;
+    font-family: Lucida Handwriting;
+}   
+
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 16;
+    color:blueviolet;
+    text-decoration: underline;
+}
